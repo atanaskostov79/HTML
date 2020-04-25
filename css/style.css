@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(201, 203, 216)
+}
+p {
+color: darkgreen;
+
+
+}
+h1 {
+    color: brown
+}
+
+.big{
+    font-size: 30px
+}
+
+.gray{
+    color: #c3c3c3
+}
